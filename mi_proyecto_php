@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Subir proyecto PHP para conexión Android"
+git branch -M main
+git remote add origin https://github.com/MARIA155123/proyecto_php_android.git
+git push -u origin main
